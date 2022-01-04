@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @azoozalharte
-- 👀 I’m interested in Back-end development with javascript
+- 👀 I’m interested in Front-end development with javascript
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me abdulazizalharthie@gmail.com
 
