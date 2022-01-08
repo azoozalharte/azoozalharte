@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @azoozalharte
+- 👋 Hi, I’m  Abdulaziz Alharthie
 - 👀 I’m interested in Front-end development with javascript
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me abdulazizalharthie@gmail.com
